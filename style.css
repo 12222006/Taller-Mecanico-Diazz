@@ -23,6 +23,13 @@ body {
     position: relative;
 }
 
+
+.contact{
+display: Flex;
+justify-content: right;
+align-items: right;
+}
+
 .nav__list {
     margin: 0;
     list-style: none;
